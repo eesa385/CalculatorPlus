@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "playwright": "^1.50.0"
+  },
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+    "scripts": {
+      "test": "playwright test"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eesa385/CalculatorPlus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eesa385/CalculatorPlus/issues"
+  },
+  "homepage": "https://github.com/eesa385/CalculatorPlus#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.12.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
